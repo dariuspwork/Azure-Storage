@@ -1,6 +1,7 @@
 # Azure-Storage
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<<img width="696" height="104" alt="image" src="https://github.com/user-attachments/assets/f7f7b5ad-1768-464a-b223-3ea5f4bd0d95" />
+/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
